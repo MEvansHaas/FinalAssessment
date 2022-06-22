@@ -6,8 +6,8 @@
 
 /* add code here to change the color and font family of your name/title */
 h1 {
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
-    color:darkblue
+    font-family:'Times New Roman', Times, serif;
+    color:blue;
 }
 div {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
@@ -17,3 +17,6 @@ body{
     padding-right: 150px;
 }
 /* Bonus: change the color of your list elements */
+#lutherlist {
+    color:blueviolet;
+}
